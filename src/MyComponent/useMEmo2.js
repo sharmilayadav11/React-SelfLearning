@@ -8,9 +8,7 @@ const App = () => {
 
     const increment = () => {
         setCount((c) => c + 1);
-    };
-    const addTodo = () => {
-        setTodos((t) => [...t, "New Todo"]);
+
     };
 
     return (
