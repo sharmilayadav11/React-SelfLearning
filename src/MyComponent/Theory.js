@@ -10,3 +10,5 @@ To get an overview of what React is, you can write React code directly in HTML.
 But in order to use React in production, you need npm and Node.js installed.
 The quickest way start learning React is to write React directly in your HTML files.
 This way of using React can be OK for testing purposes, but for production you will need to set up a React environment.
+
+If you have npx and Node.js installed, you can create a React application by using create-react - app.
