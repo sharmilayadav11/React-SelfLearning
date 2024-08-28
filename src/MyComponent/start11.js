@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 
 function Car() {
     const [car, setCar] = useState({
-        brand: "Ford",
+        brand: "Fords",
         model: "Mustang",
         year: "1964",
         color: "red"
